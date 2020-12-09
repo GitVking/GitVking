@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **Data analysis, streamlit,git**
 
+- 👯 I’m looking to collaborate on [LightSocial](https://github.com/GitVking/LightSocial)
+
+- 🤝 I’m looking for help with [LightSocial](https://github.com/GitVking/LightSocial)
+
 - 👨‍💻 All of my projects are available at [https://github.com/GitVking](https://github.com/GitVking)
 
 - 📝 I regularly write articles on [https://www.yuque.com/u1782444](https://www.yuque.com/u1782444)
